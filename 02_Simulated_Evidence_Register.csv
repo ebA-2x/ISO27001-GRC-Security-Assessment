@@ -1,0 +1,9 @@
+Record ID,Control,Document / synthetic artifact,Mock content,Assessment significance
+EV-001,A.5.15,Access Policy v2.1,Approved 2026-01-10; owners defined; sampled approvals 5/5,Supports policy and sampled implementation
+EV-002,A.5.18,Quarterly Access Review Log,Review completed Apr 2026; July 2026 review absent,Quarterly policy not followed
+EV-003,A.6.3,LMS Completion Export,75 assigned; 45 complete; 30 overdue; target 90%,Only 60% complete
+EV-004,A.8.1,Device Compliance Export,75 enrolled; 72 compliant; 3 configuration drift,3 assets require action
+EV-005,A.8.7,EDR Health Export,75/75 installed; health = green in sample,Coverage verified for sample
+EV-006,A.8.8,Vulnerability Scan and Tickets,V-101 critical 21 days; V-102 critical 19 days; V-103 critical 18 days; SLA 14 days,3 overdue findings
+EV-007,A.8.15,SIEM Source Inventory,"Defender and identity auth logs enabled, 90-day retention in simulated settings",Supports limited logging test
+EV-008,A.8.16,SOC Incident Queue,5 alerts sampled; all triaged; 2 escalated with documented notes,Supports sampled monitoring operation
